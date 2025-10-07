@@ -1,0 +1,5 @@
+{
+  "name": "GanttGen AI",
+  "description": "An intelligent project planner that automatically generates GanttProject (.gan) files from a simple project description using AI.",
+  "requestFramePermissions": []
+}
